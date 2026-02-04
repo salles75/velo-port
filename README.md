@@ -9,7 +9,6 @@
 
 **Velo** (do italiano, "velocidade") é um sistema moderno de gestão de projetos estilo Kanban, desenvolvido com foco em **performance**, **interatividade** e **experiência do usuário**.
 
-![Velo Preview](https://via.placeholder.com/800x450/0D0D0F/FF6B4A?text=Velo+-+Kanban+Board)
 
 ## ✨ Características
 
